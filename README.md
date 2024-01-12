@@ -1,4 +1,4 @@
-##Kani Clothing Store Web Page
+## Kani Clothing Store Web Page
 
 <p>Welcome to the Kani Clothing Store web page project! This project is a simple and elegant showcase of my skills in front-end web development, utilizing HTML, CSS, and JavaScript.</p>
 
